@@ -215,5 +215,6 @@ yarl==1.23.0
 zai-sdk==0.2.2
 zhipuai==2.1.5.20250825
 zipp==3.23.1
+sniffio
 zope.interface==5.4.0
 zstandard==0.25.0
